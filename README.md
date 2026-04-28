@@ -16,7 +16,7 @@ Documentation for the Dependency Editor Unity Plugin
 ## Editor Window
 <img width="1603" height="588" alt="grafik" src="https://github.com/user-attachments/assets/4832846c-09e4-4468-8eac-e27cbeb5ea46" />
 
-To open the Dependency
+To open the Dependency Editor go to ``Tools -> Dependency Editor``
 
 ### Left Panel 
 <img width="404" height="284" alt="grafik" src="https://github.com/user-attachments/assets/0c216b27-6bb2-44f9-999c-3498bc1c217d" />
